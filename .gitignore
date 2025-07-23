@@ -3,3 +3,28 @@ bin/
 .classpath
 .project
 .settings/
+
+# Compiled class files
+*.class
+
+# Eclipse project files
+*.project
+*.classpath
+.settings/
+
+# IDE folders
+.vscode/
+.idea/
+*.iml
+
+# Mac system file
+.DS_Store
+
+# Logs and serialized objects
+*.log
+*.ser
+
+# Build directories (optional)
+bin/
+build/
+target/
